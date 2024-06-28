@@ -19,6 +19,7 @@ export const Publications = (props) => {
                                     </span>
                                     )}
                                 </div>
+                                <div className='venue'>{publication.venue}</div>
                             </div>
                             <div className='subinfo'>
                                 <span className='booktitle'>{publication.booktitle}</span>

@@ -1,19 +1,37 @@
 [
     {
-        "title": "Datopia",
-        "people": ["Hyunseung Lim", "Dasom Choi", "Kwangyoung Lee", "Taewan Kim", "Eunseo Oh", "Inhwa Song", "Seokyoung Park", "Yubin Choi", "Hwajung Hong"],
+        "title": "MindBattery",
+        "people": [],
         "highlight_people": [0],
-        "year": "2022",
-        "description": "Datopia is a data-based dating service. By analyzing data, it captures everything from the preferences you didn't know you had to your minor daily habits. Through this, it goes beyond simple encounters to find you a destined partner with whom you can maintain a continuous relationship. But can love really be determined solely by data?",
-        "image": "project_1.png"
-    }
-    ,
+        "year": "2024",
+        "description": "The fast-paced and demanding nature of call center work prevents ability from recognizing worker's emotional states. In this work, we developed MindBattery, a smartphone application using a battery analogy to help call center workers gauge their emotional energy depletion. The battery analogy to materialize the abstract psychological concepts into concrete and tangible experiences facilitated participants in acknowledging their emotional states, developing personal coping strategies, and reducing depression in a high-stress environment.",
+        "image": "MindBattery_Project_Figure.png"
+    },
+    
     {
-        "title": "Datopia",
-        "people": ["Hyunseung Lim", "Dasom Choi", "Kwangyoung Lee", "Taewan Kim", "Eunseo Oh", "Inhwa Song", "Seokyoung Park", "Yubin Choi", "Hwajung Hong"],
+        "title": "MindForecaster",
+        "people": [],
         "highlight_people": [0],
-        "year": "2022",
-        "description": "Datopia is a data-based dating service. By analyzing data, it captures everything from the preferences you didn't know you had to your minor daily habits.",
-        "image": "project_1.png"
+        "year": "2020",
+        "description": "By anticipating stressful situations, we can prepare and better cope with stressors when they actually occur. In this work, we examine how anticipation—a future-centric self-tracking practice—could be used to manage daily stress levels. To address this, we built MindForecaster, a calendar edited stress anticipation application that allows users to expect stressful events in advance, generates activities to mitigate stress, and evaluates actual stress levels compared to previously estimated stress levels.",
+        "image": "MindForecaster_Project_Figure.png"
+    },
+
+    {
+        "title": "MindNavigator",
+        "people": [],
+        "highlight_people": [0],
+        "year": "2018",
+        "description": "Creating concrete mental health–related goals and turning them into actionable plans; In this work, we introduce MindNavigator — a workshop in which groups of college students were invited to generate behavioral change goals to manage daily life stress and practice personalized interventions. We describe the manner in which participants identified both stressors and pleasures to create actionable, engaging, and open-ended behavioral plans that aided in stress relief.",
+        "image": "MindNavigator_Project_Figure.png"
+    },
+
+    {
+        "title": "MindTracker",
+        "people": [],
+        "highlight_people": [0],
+        "year": "2017",
+        "description": "Tracking the emotion is challenging due to the implicit form of data. In this work, we introduce MindTracker, an approach for tracking emotion through a tangible interaction with plasticine clay. We found that the tangible modality of MindTracker motivated the participants to express various aspects of emotions. In addition, MindTracker’s data collection and reflection process could have therapeutic properties, such as expressive therapy, self-soothing, and emotional self-regulation.",
+        "image": "MindTracker_Project_Figure.png"
     }
 ]

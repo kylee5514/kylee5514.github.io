@@ -1,33 +1,66 @@
 [
+    
+
     {
-        "title": "Designing for self-tracking of emotion and experience with tangible modality",
-        "authors": ["Kwangyoung Lee", "Hwajung Hong"],
+        "title": "Designing a Personalized Stress Management System for Call Center Workers",
+        "authors": ["Kwangyoung Lee", "Hyunseung Lim", "Sooyeon Ahn", "Taewan Kim", "Hwajung Hong"],
         "highlight_author": [0],
-        "year": 2017,
-        "booktitle": "DIS 2017",
+        "venue": "2023 IEEE International Conference on Big Data and Smart Computing (BigComp)",
+        "year": 2023,
+        "booktitle": "BigComp 2023",
+        "state": "(Workshop)",
         "awards": [],
-        "url": "https://dl.acm.org/doi/abs/10.1145/3064663.3064697",
-        "pdf": "PDF/Mindtracker_2017.pdf"
+        "url": "https://ieeexplore.ieee.org/abstract/document/10066645",
+        "pdf": "PDF/Designing_a_Personalized_Stress_Management_System_for_Call_Center_Workers.pdf"
     },
-    {
-        "title": "MindNavigator: Exploring the stress and self-interventions for mental wellness",
-        "authors": ["Kwangyoung Lee", "Hwajung Hong"],
-        "highlight_author": [0],
-        "year": 2018,
-        "booktitle": "CHI 2018",
-        "state": "(Published)",
-        "awards": [],
-        "url": "https://dl.acm.org/doi/abs/10.1145/3173574.3174146",
-        "pdf": "PDF/MindNavigator_2018.pdf"
-    },
+
     {
         "title": "Toward future-centric personal informatics: Expecting stressful events and preparing personalized interventions in stress management",
         "authors": ["Kwangyoung Lee", "Hyewon Cho", "Kobiljon Toshnazarov", "Nematjon Narziev", "So Young Rhim", "Kyungsik Han", "YoungTae Noh", "Hwajung Hong"],
         "highlight_author": [0],
+        "venue": "CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
         "year": 2020,
         "booktitle": "CHI 2020",
         "awards": [],
         "url": "https://dl.acm.org/doi/abs/10.1145/3313831.3376475",
         "pdf": "PDF/MindForecaster_2020.pdf"
+    },
+    
+    {
+        "title": "Aesthetic Product Interaction: The Necessity of Consistency Between Function & Emotion",
+        "authors": ["Kwangyoung Lee", "James Andrew Self", "Hwajung Hong"],
+        "highlight_author": [0],
+        "venue": "DS 92: Proceedings of the DESIGN 2018 15th International Design Conference",
+        "year": 2018,
+        "booktitle": "DESIGN 2018",
+        "awards": [],
+        "url": "https://www.designsociety.org/publication/40624/AESTHETIC+PRODUCT+INTERACTION%3A+THE+NECESSITY+OF+CONSISTENCY+BETWEEN+FUNCTION+%26+EMOTION",
+        "pdf": "PDF/DS92_291.pdf"
+    },
+
+    {
+        "title": "MindNavigator: Exploring the stress and self-interventions for mental wellness",
+        "authors": ["Kwangyoung Lee", "Hwajung Hong"],
+        "highlight_author": [0],
+        "venue": "CHI '18: Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems",
+        "year": 2018,
+        "booktitle": "CHI 2018",
+        "awards": [],
+        "url": "https://dl.acm.org/doi/abs/10.1145/3173574.3174146",
+        "pdf": "PDF/MindNavigator_2018.pdf"
+    },
+
+    {
+        "title": "Designing for self-tracking of emotion and experience with tangible modality",
+        "authors": ["Kwangyoung Lee", "Hwajung Hong"],
+        "highlight_author": [0],
+        "venue": "DIS '17: Proceedings of the 2017 Conference on Designing Interactive Systems",
+        "year": 2017,
+        "booktitle": "DIS 2017",
+        "awards": [],
+        "url": "https://dl.acm.org/doi/abs/10.1145/3064663.3064697",
+        "pdf": "PDF/Mindtracker_2017.pdf"
     }
+    
+   
 ]
